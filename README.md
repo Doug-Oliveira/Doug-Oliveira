@@ -2,6 +2,9 @@
 
 Software Developer at @Pitzi
 
+Find me around the web 🌎
+- [LinkedIn](https://www.linkedin.com/in/douglas-araujo-de-oliveira-82829a149/) 💬
+- [Instagram](https://www.instagram.com/iamdouglasaraujo/) 📷
 <!--
 **Doug-Oliveira/Doug-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
