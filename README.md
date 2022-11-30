@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Douglas 👋
+
+Software Developer at @Pitzi
 
 <!--
 **Doug-Oliveira/Doug-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
