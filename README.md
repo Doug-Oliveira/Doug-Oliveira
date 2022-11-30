@@ -1,6 +1,6 @@
 ### Hi there, I'm Douglas 👋
 
-Software Developer at @Pitzi
+Software Developer at [@Pitzi](https://pitzi.com.br/)
 
 Find me around the web 🌎
 - [LinkedIn](https://www.linkedin.com/in/douglas-araujo-de-oliveira-82829a149/) 💬
