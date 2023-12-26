@@ -1,8 +1,7 @@
-### Hi there, I'm Douglas 👋
+<h1 align="center">Hi there, I'm Douglas 👋</h1>
+<h3 align="center">Software Developer at <a href="https://pitzi.com.br/">Pitzi</a></h3>
+<h3 align="left">Find me around the web 🌎</h3>
 
-Software Developer at [@Pitzi](https://pitzi.com.br/)
-
-Find me around the web 🌎
 - [LinkedIn](https://www.linkedin.com/in/douglas-araujo-de-oliveira-82829a149/) 💬
 - [Instagram](https://www.instagram.com/iamdouglasaraujo/) 📷
 <!--
