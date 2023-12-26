@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Douglas 👋</h1>
+<h1 align="center">Hi there, I'm Douglas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> </h1>
 <h3 align="center">Software Developer at <a href="https://pitzi.com.br/">Pitzi</a></h3>
 <h3 align="left">Find me around the web 🌎</h3>
 
