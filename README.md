@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Douglas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> </h1>
-<h3 align="left">✨ Full-Stack web developer passionate about technology and innovation, currently focused on rails projects.</h3>
+<h1>Hi there, I'm Douglas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> </h1>
+<h4>✨ Full-Stack web developer passionate about technology and innovation, currently focused on rails projects.</h4>
 
-<h3 align="left">⚡ Technologies</h3>
+<h4 align="left">⚡ Technologies</h4>
 <ul>
   <li>Ruby</li>
   <li>Ruby on Rails</li>
