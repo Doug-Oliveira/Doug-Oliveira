@@ -5,6 +5,7 @@
 <ul>
   <li>Ruby</li>
   <li>Ruby on Rails</li>
+  <li>Sidekiq</li>
   <li>Jquery</li>
   <li>Bootstrap</li>
   <li>Tailwind CSS</li>
